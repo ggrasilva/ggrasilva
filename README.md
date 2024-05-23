@@ -10,5 +10,6 @@ meu nome é Grasi
 0001098747707sp@al.educacao.sp.gov.br
 @grasiele
 
- ![_] (https://media1.tenor.com/m/IIxvyrhdmJEAAAAC/love-hearts.gif)
-![] (https://media1.tenor.com/m/mdFqyJmT6kUAAAAd/congratulations.gif)
+ ![](https://media1.tenor.com/m/IIxvyrhdmJEAAAAC/love-hearts.gif)
+
+
